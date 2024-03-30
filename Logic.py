@@ -1,1 +1,1 @@
-
+gray = ["armor piercing rounds", "Backup Magazine", "Bison Steak", "Bundle of Fireworks", "Bungus", "Cautious Slug", "Crowbar", "Delicate Watch", "Energy Drink", "Focus Crystal", "Gasoline", "Lens Maker's Glasses", "Medkit", "Mocha", "Monster Tooth", "Opal", "Paul's Goat Hoof", "Sheild", "Power Elixir", "Repulsion Armor Plate", "Roll of Pennies", "Rusted Key", "Syringe", "Sticky Bomb", "Stun Grenade", "Topaz Brooch", "Tougher Times", "Tri-Tip Dagger", "Warbanner"]
